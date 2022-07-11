@@ -23,4 +23,9 @@ Intro:
      (a). Automatic Waiting: Never add waits or sleeps to your tests. 
      (b). Cypress automatically waits for commands and assertions before moving on. No more async hell.
  
+ 4. Screenshot and Videos:
+     (a). View screenshots taken automatically on failure, or videos of your entire test suite when run from the CLI.
+     
+ 5. Cross Browser Testing:
+     (a). Cross browser Testing: Run tests within Firefox and Chrome-family browsers (including Edge and Electron) locally and optimally in a Continuous Integration pipeline.
  
