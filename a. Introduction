@@ -8,7 +8,7 @@ Intro:
            (d). Debug tests
  - Cypress is most often compared to Selenium; however Cypress is both fundamentally and architecturally different. 
  - Cypress is not constrained by the same restrictions as Selenium.           
- 
+ - This enables you to write faster, easier and more reliable tests.
  
  
  
