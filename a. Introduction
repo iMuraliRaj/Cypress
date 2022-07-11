@@ -10,8 +10,17 @@ Intro:
  - Cypress is not constrained by the same restrictions as Selenium.           
  - This enables you to write faster, easier and more reliable tests.
  
+ Features:
+ 1. Time Travel:
+     (a). Cypress takes snapshots as your tests run
+     (b). Hover over commands in the Command Log to see exactly what happened at each step.
+     
+ 2. Debuggability: 
+     (a). Stop guessing why your tests are failing. Debug directly from familiar tools like Developer Tools.
+     (b). Our readable errors and stack traces make debugging lightning fast.     
  
- 
- 
+ 3. Automatic Waiting:
+     (a). Automatic Waiting: Never add waits or sleeps to your tests. 
+     (b). Cypress automatically waits for commands and assertions before moving on. No more async hell.
  
  
